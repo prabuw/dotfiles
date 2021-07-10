@@ -1,0 +1,32 @@
+syntax on
+
+set noerrorbells
+set tabstop=4 softtabstop=4
+set shiftwidth=4
+set expandtab
+set smartindent
+set nu
+set nowrap
+set smartcase
+set ignorecase
+set noswapfile
+set nobackup
+set undodir=~/.vim/undodir
+set undofile
+set incsearch
+set hidden
+set scrolloff=8
+set signcolumn=yes
+set relativenumber
+
+set colorcolumn=80
+highlight Normal guibg=none
+
+call plug#begin('~/.vim/plugged')
+
+Plug 'dracula/vim', { 'as': 'dracula' }
+Plug 'sheerun/vim-polyglot'
+
+call plug#end()
+
+colorscheme dracula
