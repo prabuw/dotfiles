@@ -9,3 +9,15 @@
 7. Run `fish ~/.dotfiles/bootstrap/bootstrap.fish`
 8. Open chrome and login
 9. Login into VS Code to sync settings
+10. Disable Spotlight shortcut and set cmd + space for Raycast
+11. Open rectangle and give permission to control computer
+12. Invert mouse direction
+
+//TODO:
+
+1. macos settings
+2. Themes + fonts
+3. Extra applications to be installed
+4. fix vimrc
+5. Ruby + Node
+6. Rider
