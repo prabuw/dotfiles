@@ -15,6 +15,7 @@ brew 'ripgrep'
 brew 'tree'
 brew 'gnupg' # Install GnuPG to enable PGP-signing commits.
 brew 'vim'
+brew 'starship'
 
 # Applications
 cask 'iterm2'
