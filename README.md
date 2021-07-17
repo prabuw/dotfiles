@@ -21,3 +21,6 @@
 4. fix vimrc
 5. Ruby + Node
 6. Rider
+7. Bluetooth in bar
+8. Move dock to right
+9. Remove apps from dock
